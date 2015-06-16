@@ -13,7 +13,7 @@
 *   Gulp [http://leveluptuts.com/tutorials/learning-gulp](http://leveluptuts.com/tutorials/learning-gulp)
 *   EdgeJS [https://github.com/tjanczuk/edge](https://github.com/tjanczuk/edge)
 
-### AngularJS ### 
+### AngularJS ###
 *   General [http://campus.codeschool.com/courses/shaping-up-with-angular-js/intro](http://campus.codeschool.com/courses/shaping-up-with-angular-js/intro) & [https://docs.angularjs.org/guide](https://docs.angularjs.org/guide)
 *   Styling and Best Practices [https://github.com/johnpapa/angular-styleguide](https://github.com/johnpapa/angular-styleguide)
 *   Jasmine [https://www.youtube.com/playlist?list=PLOxOmO43E6Jt0SruKGxtZs-W3PJN90G_a](https://www.youtube.com/playlist?list=PLOxOmO43E6Jt0SruKGxtZs-W3PJN90G_a)
