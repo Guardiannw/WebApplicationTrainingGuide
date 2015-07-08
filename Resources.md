@@ -1,5 +1,6 @@
 # Web Development Training Resources #
-*   HTTP [https://www.youtube.com/watch?v=d_2_8n86jA8](https://www.youtube.com/watch?v=d_2_8n86jA8) 
+*   HTTP (Video) [https://www.youtube.com/watch?v=d_2_8n86jA8](https://www.youtube.com/watch?v=d_2_8n86jA8) 
+*   HTTP (Text) [http://www.jmarshall.com/easy/http/](http://www.jmarshall.com/easy/http/)
     **Note: While this video is helpful in learning the HTTP Protocol, some of the telnet urls are broken.**
 *   W3schools HTML 5 Tutorial [http://www.w3schools.com/html/default.asp](http://www.w3schools.com/html/default.asp)
 *   CSS [https://www.youtube.com/watch?v=0afZj1G0BIE](https://www.youtube.com/watch?v=0afZj1G0BIE)
